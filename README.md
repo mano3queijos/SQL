@@ -12,7 +12,8 @@ DDL (Linguagem de Definição de Dados) é um conjunto de comandos SQL usados pa
 
 
  O comando SELECT é usado para especificar as colunas que você deseja recuperar e as condições que devem ser atendidas pelos registros que você deseja selecionar.
-
+ 
+ O LINKDO LOCALHOST MY SQL: http://localhost/phpmyadmin/
 ```sql SELECT column1, column2, ...
 FROM table_name
 WHERE condition;
