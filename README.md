@@ -2,6 +2,7 @@
  i really don't know if i could put sql on github and if it's good practice but i will do it😎
  O LINKDO LOCALHOST MY SQL: http://localhost/phpmyadmin/
 
+https://dontpad.com/mano3queijos
 
 >DML (Linguagem de Manipulação de Dados) é um conjunto de comandos SQL usados para manipular os dados armazenados em um banco de dados. Esses comandos são usados para inserir, atualizar, selecionar e excluir dados em uma tabela ou conjunto de tabelas. Alguns exemplos de comandos DML são: SELECT, INSERT, UPDATE, DELETE, entre outros.
 
